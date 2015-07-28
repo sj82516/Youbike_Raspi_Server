@@ -8,6 +8,6 @@
 功用：自動到Data.Taipei抓資料，按照不同天數劃分Table
 
 ##進階
-設定crontab讓getData.py自動每隔十分鐘執行一次
+設定crontab，讓getData.py自動每隔十分鐘執行一次
 
 
