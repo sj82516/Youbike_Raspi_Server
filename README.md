@@ -10,7 +10,7 @@
 ![alt tag](https://github.com/sj82516/Youbike_Raspi_Server/blob/master/img/check_DB.jpg)
 
 ##進階
-設定crontab，讓getData.py自動每隔十分鐘執行一次
+設定crontab，讓getData.py自動每隔十分鐘執行一次  
 一天下來約60筆，遺失率約50%.... 可以調高抓取頻率
 ![alt tag](https://github.com/sj82516/Youbike_Raspi_Server/blob/master/img/table_result.jpg)
 
